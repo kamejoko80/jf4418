@@ -4,7 +4,7 @@ JF4418 Bootloader Image Generator
 
    Usage: 
    
-   $ bootgen.exe <output> <bootloader>
+   $ bootgen.exe output input
    
    Example:    
    
@@ -14,7 +14,7 @@ JF4418 Bootloader Image Generator
    
    Usage :
    
-   $ ./bootgen <output> <bootloader>
+   $ ./bootgen output input
    
    Example :
    
