@@ -1,4 +1,8 @@
-JF4418 is a high performance single board computer (SBC) and low cost, high-expansion embedded platform using a low cost S5PC4418 quad-core ARM cortex-A9 processor from Samsung. Some high light features as bellow:
+### Introduction ###
+
+JF4418 is a high performance single board computer (SBC) and low cost, high-expansion embedded platform using a low cost S5PC4418 quad-core ARM cortex-A9 processor from Samsung. 
+
+### Features ###
 
 -  CPU S5P4418 ARM Cortext-A9 1.4GHz.
 -  RAM 1GB DDR3 800MHz. 
