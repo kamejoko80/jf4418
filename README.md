@@ -26,4 +26,4 @@ JF4418 is a high performance single board computer (SBC) and low cost, high-expa
 
 ### Getting Start ###
 
-Please visit [Absolute Wiki](https://github.com/pdtechvn/jf4418/wiki) for more information.
+Please visit [JF4418 Wiki](https://github.com/pdtechvn/jf4418/wiki) for more information.
