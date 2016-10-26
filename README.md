@@ -23,4 +23,7 @@ JF4418 is a high performance single board computer (SBC) and low cost, high-expa
 -  Audio HP, MIC in , speaker out ports.  
 -  GPIO Header. 
 -  5V DC power supply input. 
- 
+
+### Getting Start ###
+
+Please visit [Absolute Wiki](https://github.com/pdtechvn/jf4418/wiki) for more information.
