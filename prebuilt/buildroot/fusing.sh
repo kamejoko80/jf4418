@@ -18,7 +18,7 @@ case $1 in
         exit 1
     fi
     DEV_NAME=`basename $1`
-    BLOCK_CNT=`cat /sys/block/${DEV_NAME}/size` ;;&
+    BLOCK_CNT=`cat /sys/block/${DEV_NAME}/size` ;;
 /dev/sd[a-z])
     REMOVABLE=`cat /sys/block/${DEV_NAME}/removable` ;;
 /dev/loop[0-9])
